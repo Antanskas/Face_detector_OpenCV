@@ -1,15 +1,15 @@
 # Face_detector_cv2
 
-## 1. Description
+* ## Description
 Simple face detector app using cv2 ![opencv img](https://github.com/Antanskas/Face_detector_cv2/blob/master/repository_images/opencv.png)
 
-## 2. Environment
+* ## Environment
 Google colaboratory ![colab img](https://github.com/Antanskas/Face_detector_cv2/blob/master/repository_images/colab.png)
 
-## 3. Test set
+* ## Test set
 Five my own pictures ![test img](https://github.com/Antanskas/Face_detector_cv2/blob/master/repository_images/test.png)
 
-## 4. Results
+* ## Results
 
 ![Image 0](https://github.com/Antanskas/Face_detector_cv2/blob/master/outputs/test_0.jpg)
 
